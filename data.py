@@ -23,8 +23,8 @@ def  init():
     global weight_time
     global seconds_elapsed
 
-bot_token = 'NTg3MTk5NTU4OTQ2MjU4OTc0.XPzg8Q.0S9ztlL5e7oz8n5DPuEG5g_IWx4'
-self_bot_token = 'NTIzgzNTg1MjgzNTcxNzE1.XLjC0g.21ETRX-syGpr-W2m_-JPkqlaDS0
+bot_token = 'NjA4Mjk0NDA5MDg3NDgzOTE0.XYw5CA.fCq5RmC3xJQSRz7H3b93_Xd49Oc'
+self_bot_token = 'NTIzgzNTg1MjgzNTcxNzE1.XLjC0g.21ETRX-syGpr-W2m_-JPkqlaDS0'
 embed = None
 embed_best = None
 
@@ -45,8 +45,8 @@ input_hq_private  = [
     '559357612068700183' #trivia-answers
 ]
 input_hq_public = ['']
-command_channel = '559357612068700183' #trivia-answers
-admin_chat = '559442345674670082' # answers2
+command_channel = '608262001650696202' #trivia-answers
+admin_chat = '620777556576305155' # answers2
 
 game_in_session = False
 counter_public_1 = 0
